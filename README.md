@@ -8,7 +8,7 @@
 
 Please, check it out my channel about testing automation:
 
-[![Canal Agilizei](https://badgen.net/badge/Youtube/samlucax?icon=youtube)](youtube.com/c/Agilizei)
+[![Canal Agilizei](https://badgen.net/badge/Youtube/samlucax?icon=youtube)](https://youtube.com/c/Agilizei)
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=samlucax&show_icons=true&hide=[%22prs%22,%22issues%22])
