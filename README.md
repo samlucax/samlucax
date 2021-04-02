@@ -9,11 +9,11 @@ Entusiasta das melhores tecnologias de testes para a web.
 Apaixonado por educação e por mudar a vida das pessoas através da troca de conhecimentos. 
 Mais de 1600 pessoas já passaram por um dos meus treinamentos.
 
-- 🇧🇷 1st Cypress Ambassador no Brasil
-- 🏆 Treinamentos de Cypress (1677 alunos)
-- ⚡️ Agilizei Bootcamp (5 turmas)
-- 🔭 Líder de Engenharia na CWI Software
-- ⚡ Criador e instrutor no Agilizei
+- 🇧🇷   1st Cypress Ambassador no Brasil
+- 🏆   Treinamentos de Cypress (1677 alunos)
+- ⚡️   Agilizei Bootcamp (5 turmas)
+- 🔭   Líder de Engenharia na CWI Software
+- ⚡   Criador e instrutor no Agilizei
 
 
 Atualmente, recomendo e apoio os projetos OSS abaixo:
