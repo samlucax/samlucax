@@ -1,14 +1,25 @@
-### Hi there 👋
+### Faaala pessoal! ⚡️ 
 
-### I'm Samuel Lucas
+### Me chamo Samuel Lucas
 
-- 🔭 I’m currently working at CWI Software as a Test Engineer. 
-- ⚡ I'm also working on Agilizei, a project to teach and help other testers to learn testing automation.
-- 🌱 I’m currently learning a lot about Cypress. I'm also trying a little of .NET .
+[![Linkedin Badge](https://img.shields.io/badge/-Samuel%20Lucas-fbca16?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuellucass/)](https://www.linkedin.com/in/samuellucass/) 
 
-Please, check it out my channel about testing automation:
+Entusiasta das melhores tecnologias de testes para a web.
+
+Apaixonado por educação e por mudar a vida das pessoas através da troca de conhecimentos. 
+Mais de 1600 pessoas já passaram por um dos meus treinamentos.
+
+- 🇧🇷 1st Cypress Ambassador no Brasil
+- 🏆 Treinamentos de Cypress (1677 alunos)
+- ⚡️ Agilizei Bootcamp (5 turmas)
+- 🔭 Líder de Engenharia na CWI Software
+- ⚡ Criador e instrutor no Agilizei
+
+
+Atualmente, recomendo e apoio os projetos OSS abaixo:
+- Sorry Cypress
+- ServeRest
+
+Confira o canal Agilizei no Youtube:
 
 [![Canal Agilizei](https://badgen.net/badge/Youtube/samlucax?icon=youtube)](https://youtube.com/c/Agilizei)
-
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=samlucax&show_icons=true&hide=[%22prs%22,%22issues%22])
