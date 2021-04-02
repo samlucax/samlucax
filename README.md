@@ -13,7 +13,7 @@ Mais de 1600 pessoas já passaram por um dos meus treinamentos.
 - 🏆   Treinamentos de Cypress (1677 alunos)
 - ⚡️   Agilizei Bootcamp (5 turmas)
 - 🔭   Líder de Engenharia na CWI Software
-- ⚡   Criador e instrutor no Agilizei
+- ⚡   Criador e Instrutor do Agilizei
 
 
 Atualmente, recomendo e apoio os projetos OSS abaixo:
