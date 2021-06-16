@@ -2,6 +2,8 @@
 
 ### Me chamo Samuel Lucas
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samlucax&label=Profile%20views&color=0e75b6&style=flat" alt="samlucax" /> </p>
+
 [![Linkedin Badge](https://img.shields.io/badge/-Samuel%20Lucas-fbca16?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuellucass/)](https://www.linkedin.com/in/samuellucass/) 
 
 Entusiasta das melhores tecnologias de testes para a web.
