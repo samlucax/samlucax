@@ -19,8 +19,8 @@ Mais de 2900 pessoas já passaram por um dos meus treinamentos.
 
 
 Atualmente, recomendo e apoio os projetos OSS abaixo:
-- Sorry Cypress
-- ServeRest
+- Sorry Cypress - https://github.com/sorry-cypress/sorry-cypress
+- ServeRest - https://github.com/ServeRest/ServeRest
 
 Confira o canal Agilizei no Youtube:
 
