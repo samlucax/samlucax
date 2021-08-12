@@ -34,4 +34,4 @@ Confira o canal Agilizei no Youtube:
 4. [Cypress, o essencial em um mindmap](https://www.youtube.com/watch?v=utdYrFjs4Do)
 
 ### Stats. 
-![ ](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samlucax&theme=monokai)
+![ ](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samlucax&theme=vue)
