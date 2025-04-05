@@ -14,7 +14,7 @@ Mais de 2900 pessoas já passaram por um dos meus treinamentos.
 - 🇧🇷   1st Cypress Ambassador no Brasil
 - 🏆   Treinamentos de Cypress (4500 alunos)
 - ⚡️   Agilizei Bootcamp (9 turmas)
-- 🔭   Líder de Engenharia na CWI Software
+- 🔭   Senior QA Automation Engineer na Ambush
 - ⚡   Criador e Instrutor do Agilizei
 
 
